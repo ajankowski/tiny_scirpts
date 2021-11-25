@@ -1,0 +1,47 @@
+Przygotowanie do warsztatu.
+
+Proszę przygotować komputer z:
+- Połączeniem internetowym
+- Przeglądarka Google Chrome lub Firefox (ewentualnie Safari)
+
+Używamy środowiska online (notatnik Jupyter), do wyboru są dwie opcje:
+- google colab (https://colab.research.google.com/notebooks/intro.ipynb)
+- jeśli będą problemy z colabem do dyspozycji jest serwer: 167.172.36.73
+
+Warsztat odbywa się równocześnie w:
+- MS Teams (gdzie będą materiały i czat)
+- przeglądarce internetowej (której używamy do programowania i ćwiczeń).
+
+Im większa powierzchnia ekranu, tym lepiej. Najlepszym rozwiązaniem (jeśli to możliwe) są dwa ekrany (laptop + monitor) lub podział ekranu na pół, instrukcje poniżej:
+- 2 ekrany:
+    - kliknij prawym przyciskiem na pulpicie
+    - wybierz ustawienia wyświetlania
+    - wybierz wiele wyświetlaczy
+    - wybierz przedłużyć
+- 1 ekran:
+    - wybierz aplikację (np. MS Teams) i kliknij (klawisz „Windows” + klawisz strzałki w lewo)
+    - wybierz przeglądarkę internetową jako drugą aplikację
+
+Szybkość pisania:
+- proszę nie przejmować się szybkością pisania
+- każdy kawałek kodu który piszemy pojawi się na czacie w Teams, a cały warsztat będzie opublikowany
+
+Ćwiczenia:
+- po skończeniu ćwiczenia, proszę podnieść rękę w MS Teams (ale proszę pamiętać, że to nie jest wyścig)
+
+ 
+
+Wsparcie:
+- proszę o zadawanie pytań w oknie czatu
+- mamy oddzielny kanał Google meet do wsparcia technicznego (https://meet.google.com/hez-xbbm-iko)
+    - można będzie udostępnić tam swój ekran i porozmawiać z Georgiosem
+    
+
+Proszę, proszę o aktywność:
+- prowadząc zajęcia online trudno jest ocenić, czy wszystko jest OK.
+- nie ma głupich pytań, proszę przygotować
+
+Ocena:
+- feedback jest dla nas bardzo ważny
+- będziemy mieli kolejne warsztaty, feedback pozwoli nam je lepiej przygotować 
+- linki: tinyurl.com/y3veut5l 
